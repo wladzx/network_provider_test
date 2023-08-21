@@ -1,0 +1,236 @@
+[
+  {
+    "name": "heading1Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Heading 1",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "heading2Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Heading 2",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "heading3Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Heading 3",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "heading4Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Heading 4",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "heading5Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Heading 5",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "heading6Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Heading 6",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "subtitleText",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Subtitle",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "overlineText",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Overline",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "body1Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Body 1",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "body2Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Body 2",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "body3Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Body 3",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "button1Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Button 1",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  },
+  {
+    "name": "button2Text",
+    "importStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "dependencies": [
+      "package:flutter/material.dart",
+      "package:network_provider_test/theme/ch_colors.dart",
+      "package:styled_text/tags/styled_text_tag_base.dart",
+      "package:styled_text/widgets/styled_text.dart",
+      "package:widgetbook_annotation/widgetbook_annotation.dart",
+      "dart:core"
+    ],
+    "useCaseName": "Button 2",
+    "componentName": "CHText",
+    "componentImportStatement": "package:network_provider_test/components/texts/ch_text.dart",
+    "componentDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "useCaseDefinitionPath": "/network_provider_test/lib/components/texts/ch_text.dart",
+    "designLink": null
+  }
+]
